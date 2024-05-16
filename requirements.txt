@@ -1,5 +1,5 @@
 qrcode
-openCV
+opencv-python
 streamlit
 numpy
 BytesIO
