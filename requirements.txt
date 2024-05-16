@@ -2,4 +2,3 @@ qrcode
 opencv-python
 streamlit
 numpy
-base64
