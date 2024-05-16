@@ -1,4 +1,6 @@
 qrcode
 cv2
+streamlit
 numpy
 BytesIO
+base64
